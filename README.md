@@ -52,3 +52,21 @@ Tableau -  მაგრამ ძაან მოუხეშავია, ი�
 **Technical**
 * Website
 
+
+## 4. Names trend explorer
+
+**Problem**   
+ბევრს აინტერესებს თუ როგორ იცვლებოდა მისი სახელების რაოდენობა წლების განმავლობაში .   
+
+
+**Solution**  
+ავიღოთ სახელების ბაზა და მოვარგოთ ამ ვიზუალს - https://davidb.tech/project/names-line .  
+
+
+**Alternatives**      
+http://mashasadame.jumpstart.ge/ka . 
+
+**Technical**
+D3.js 
+
+
