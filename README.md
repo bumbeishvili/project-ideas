@@ -70,3 +70,18 @@ http://mashasadame.jumpstart.ge/ka .
 D3.js 
 
 
+## When should we buy,rent place?
+**Problem**
+ხშირად გვაინტერესებს თუ როდის არის საუკეთესო დრო ბინის საყიდლად & დასაქირავებლად & დასაგირავებლად
+
+**Solution**
+ინტერაქტიული ბლოგ პოსტი რომელიც შესაბამისი პარამეტრების საფუძველზე (კვადრატულობა, სართული , სტატუსი და ა.შ. ) გვაჩვენებს თუ როდის არის უმჯობესი ბინის შეძენა, ქირაობა ან გირაობა
+
+**Alternatives**
+\_(ツ)_/¯
+
+**Technical**
+* Scraping for data
+* T-sne for substracting anomalies
+* D3.js for visualuzations
+* Observablehq for interactivity
