@@ -85,3 +85,21 @@ D3.js
 * T-sne for substracting anomalies
 * D3.js for visualuzations
 * Observablehq for interactivity
+
+
+## 4 From which region are you
+**Problem**
+ბევრს აინტერესებს გვარის საფუძველზე საიდან არიან წარმოშობით
+
+**Solution**
+ინტერაქტიული საქართველოს რუკა 3D ბარებით და ტულტიპით, რომელიც გიჩვენებს რომელი რეგიონიდან და რამდენი შენი გვარის წარმომადგენელი ცხოვრობს
+გარდა ამისა აგრეგაციებით შეიძლება იმის თქმ, რამდენი % იმერელია, რამდენი % თბილისელი, მეგრელი და ა.შ.
+
+
+**Alternatives**      
+http://mashasadame.jumpstart.ge/ka 
+
+**Technical**
+Shrinking data so that , it would be possible to load  on client side
+
+
