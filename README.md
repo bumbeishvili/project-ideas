@@ -92,7 +92,7 @@ D3.js
 * რეკლამები & რეფერალები
 
 
-## When should we buy,rent place?
+## 5. When should we buy,rent place?
 **Problem**
 ხშირად გვაინტერესებს თუ როდის არის საუკეთესო დრო ბინის საყიდლად & დასაქირავებლად & დასაგირავებლად
 
@@ -112,7 +112,7 @@ D3.js
 * რეკლამები & რეფერალები 
 
 
-## 4 From which region are you
+## 6. From which region are you
 **Problem**
 ბევრს აინტერესებს გვარის საფუძველზე საიდან არიან წარმოშობით
 
