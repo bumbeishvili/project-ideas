@@ -8,7 +8,11 @@
 
 [Names Trend Explorer](#4-names-trend-explorer)
 
-[When should we buy & rent place](#when-should-we-buyrent-place)
+[When should we buy & rent place](#5-when-should-we-buyrent-place)
+
+[From which region are you](#6-from-which-region-are-you)
+
+
 
 
 
