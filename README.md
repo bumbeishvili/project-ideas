@@ -1,5 +1,15 @@
 # Project-ideas
 
+[Home Aggregator](#1-home-aggregator)
+
+[Vacancies Aggregator](#2-vacancies-aggregator)
+
+[Instant Data Explorer](#3-instant-data-explorer)
+
+[Names Trend Explorer](#4-names-trend-explorer)
+
+[When should we buy & rent place](#when-should-we-buyrent-place)
+
 
 
 
