@@ -12,6 +12,8 @@
 
 [From which region are you](#6-from-which-region-are-you)
 
+[Loan Manager](#6-loan-manager)
+
 
 
 
