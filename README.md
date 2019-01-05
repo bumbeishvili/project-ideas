@@ -14,6 +14,9 @@
 
 [Loan Manager](#6-loan-manager)
 
+[Cheaper currency exchanger](#7-cheaper-currency-exchanger)
+
+
 # Notice
 ### მოცემული იდეები შეუძლია გამოიყენოს ნებისმიერმა ადამიანმა, როგორც თავად სურს (MIT LICENSE)
 
@@ -175,7 +178,7 @@ http://mashasadame.jumpstart.ge/ka
 
 
 
-## 6. Cheaper currency exchanger
+## 7. Cheaper currency exchanger
 **Problem**
 
 ძირითადად ანგარიში თანხას ინტერნეტ ბანკში ვინახავთ ხოლმე და ხშირად არის სიტუაციები როცა ვალუტის გადაცვლა გვჭირდება. თუმცა ბანკები ბლუმბერგის კურსისგან განსხვავებულ ძალიან დიდ კურსით გვთავაზობენ ხოლმე კონვერტაციას. 
