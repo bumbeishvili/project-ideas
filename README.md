@@ -1,4 +1,4 @@
-# Project-ideas
+# Project Ideas List
 
 [Home Aggregator](#1-home-aggregator)
 
@@ -19,7 +19,7 @@
 
 
 
-
+# Idea's details
 
 ## 1. Home aggregator:
 
