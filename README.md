@@ -16,6 +16,7 @@
 
 [Cheaper currency exchanger](#7-cheaper-currency-exchanger)
 
+[Better js group by](#8-group-by)
 
 # Notice
 ### მოცემული იდეები შეუძლია გამოიყენოს ნებისმიერმა ადამიანმა, როგორც თავად სურს (MIT LICENSE)
@@ -199,6 +200,27 @@ http://mashasadame.jumpstart.ge/ka
 
 **Revenue**
 * ბანკებს თუ აქვთ 3 თეთრის განსხვავებული კურსი, ვალუტის გადამცვლელ პუნქტებს თუ აქვთ 0.6 თეთრით განსხვავებული კურსი. ჩვენ გვექნება 0.2 თეთრის განსხვავებული კურსი (რაც 1000 ლარზე 2 ლარს, ხოლო მილიონ ლარზე 2000 ლარის შემოსავალს მოგვცემს)
+
+
+
+## 8. Group by
+**Problem**
+
+ჯავასკრიპტის გარემოში მუშაობისას ხშირად გვჭირდება კოლექციებზე სხვადასხვა სახის დაგრუპვა
+
+**Solution**
+
+მოდული რომელიც ამ პრობლემას გადაჭრის  - https://beta.observablehq.com/@bumbeishvili/group
+
+
+**Alternatives**      
+lodash, d3-group, d3-nest
+
+**Technical**
+* npm-ში პაბლიში და მაგალითები
+
+**Revenue**
+* Nah
 
 
 
