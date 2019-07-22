@@ -18,7 +18,7 @@
 
 [Better js group by](#8-group-by)
 
-[Which animal do I look like?](#9-animal-looking)
+[Which animal do I look like?](#9-which-animal-do-i-look-like)
 
 # Notice
 ### მოცემული იდეები შეუძლია გამოიყენოს ნებისმიერმა ადამიანმა, როგორც თავად სურს (MIT LICENSE)
