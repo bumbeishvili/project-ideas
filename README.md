@@ -14,9 +14,11 @@
 
 [Loan Manager](#6-loan-manager)
 
-[Cheaper currency exchanger](#7-cheaper-currency-exchanger)
+[Cheaper currency exchanger](#7-cheaper-currency-exchanger) 
 
 [Better js group by](#8-group-by)
+
+[Which animal do I look like?](#9-animal-looking)
 
 # Notice
 ### მოცემული იდეები შეუძლია გამოიყენოს ნებისმიერმა ადამიანმა, როგორც თავად სურს (MIT LICENSE)
@@ -223,5 +225,28 @@ lodash, d3-group, d3-nest
 * Nah
 
 
+
+
+
+## 9. Which animal do I look like
+**Problem**
+
+ხშირად , just for fun ადამიანებს აინტერესებთ, თავად ან სხვები რომელ ცხოველს ჰგავენ
+
+**Solution**
+
+სისტემა, რომელიც დასკრაპავს ფოტოებს (animal laughing უეჭველი tag) და ML-ის საშუალებით ატვირთული ფოტოებიდან, ყველაზე დაახლოებულ ფოტოს შეურჩევს
+
+
+**Alternatives**      
+AnimalCam მგონი, არ გამიტესტავს უბრალოდ
+
+**Technical**
+* სკრეპინგი და ლაბელები
+* ML სურათების დატრენინგევა
+* ML შეფასება ატვირთული ფოტოსი
+
+**Revenue**
+* Ads & Referrals
 
 
