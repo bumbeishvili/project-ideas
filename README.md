@@ -1,26 +1,30 @@
 # Project Ideas List
 
-[Home Aggregator](#1-home-aggregator)
+1. [Home Aggregator](#1-home-aggregator)
 
-[Vacancies Aggregator](#2-vacancies-aggregator)
+1. [Vacancies Aggregator](#2-vacancies-aggregator)
 
-[Instant Data Explorer](#3-instant-data-explorer)
+1. [Instant Data Explorer](#3-instant-data-explorer)
 
-[Names Trend Explorer](#4-names-trend-explorer)
+1. [Names Trend Explorer](#4-names-trend-explorer)
 
-[When should we buy & rent place](#5-when-should-we-buyrent-place)
+1. [When should we buy & rent place](#5-when-should-we-buyrent-place)
 
-[From which region are you](#6-from-which-region-are-you)
+1. [From which region are you](#6-from-which-region-are-you)
 
-[Loan Manager](#6-loan-manager)
+1. [Loan Manager](#6-loan-manager)
 
-[Cheaper currency exchanger](#7-cheaper-currency-exchanger) 
+1. [Cheaper currency exchanger](#7-cheaper-currency-exchanger) 
 
-[Better js group by](#8-group-by)
+1. [Better js group by](#8-group-by)
 
-[Which animal do I look like?](#9-which-animal-do-i-look-like)
+1. [Which animal do I look like?](#9-which-animal-do-i-look-like)
 
-[CarBNB]
+1. [Dunstan Baby Language Detection](#10-dunstan-baby-language-detection)
+
+1. [CarBNB]
+
+
 
 # Notice
 ### მოცემული იდეები შეუძლია გამოიყენოს ნებისმიერმა ადამიანმა, როგორც თავად სურს (MIT LICENSE)
@@ -250,5 +254,29 @@ AnimalCam მგონი, არ გამიტესტავს უბრა
 
 **Revenue**
 * Ads & Referrals
+
+## 10. Dunstan Baby Language Detection
+**Problem**
+
+0-3 თვემდე ასაკის ბავშვების ერთადერთი კომუნიკაციის წყაროა ტირილი, თუმცა იმის გამო რომ რამდენიმე მიზეზი შეიძლება იყოს ამ ტირილის, რთულია იმის გაგება რა უნდა ბავშვს სინამდვილეში
+
+**Solution**
+
+Dunstan Baby Language-ის მიხედვით და machine learning-ის გამოყენებით, ბავშვის ტირილის მოსმენა და და იმის დადგენა თუ რა შეიძლება უნდოდეს ბავშვს (ძილი, ჭამა, მარტოსულია, რაღაც ტკივა და ა.შ. )
+
+
+**Alternatives**      
+ვერ ვიპოვე ვერაფერი, მხოლოდ წიგნები და ვიდეო გაკვეთილები
+
+**Technical**
+
+* ბავშვების ტირილები და-label-ება
+* ML-ით ხმების კლასიფიკაცია
+* მიკროფონზე მოსმენისას აპლიკაცია გეტყვის თუ რა უნდა ბავშვს დიდი ალბათობით
+
+
+**Revenue**
+* Paid membership or paid application
+
 
 #10 AIRBnb but for cars
