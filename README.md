@@ -28,6 +28,8 @@
 
 1. [Car Scans](#13-car-scans)
 
+1. [Domains](#Domains)
+
 
 
 # Notice
@@ -334,3 +336,20 @@ Sketchfab არსებობს 3D მოდელების ბაზა, 
 მანთ ვინც მოდელებს ატვირთავს, მოდელების გაყიდვის შესაძლებლობა ექნებათ - ჩვენ დაგვრჩება წილი ყოველი გაყიდული მოდელიდან
 
 
+# 14 Domains
+possible domains for  agency
+1. http://vizduck.com/
+2. http://vizrun.com/
+1. http://vizheart.com/
+1. http://vizsea.com/
+1. http://vizbee.com/
+1. http://viztea.com/
+1. http://vizmonth.com/
+1. http://vizlake.com/
+1. http://vizdream.com/
+1. http://vizsun.com/
+1. http://vizmoon.com/
+1. http://vizcup.com/
+1. http://vizpie.com/
+1. http://vizpoint.com/
+1. http://vizhat.com/ 
