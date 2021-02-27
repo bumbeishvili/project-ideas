@@ -353,3 +353,5 @@ possible domains for  agency
 1. http://vizpie.com/
 1. http://vizpoint.com/
 1. http://vizhat.com/ 
+1. http://vizxd.com/ 
+1. http://vizxl.com/ 
